@@ -1,0 +1,24 @@
+body {
+  background-color: #542B54;
+  color: white;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+}
+
+h1 {
+  padding-top: 0.5em;
+  font-size: 3.5em;
+  font-family: 'Questrial', sans-serif;
+  color: #F87B00;
+  text-shadow: -3px 3px #A4522D, -6px 6px #803E40;
+/*   text-shadow: -8px 8px #ffffff; */
+}
+
+a {
+  color: #F87B00;
+}
+
+p {
+  padding: 0.5em;
+}
